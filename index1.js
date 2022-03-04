@@ -16,4 +16,5 @@ for (const iterator of object) {
     });
 }
 
-
+// Extra from lecture video
+// to know the current position of scroll in page, use window.pageYOffset or pageXOffset
